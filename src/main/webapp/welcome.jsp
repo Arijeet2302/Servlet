@@ -14,6 +14,7 @@
     %>
         <h2>Welcome, <%= username %>!</h2>
         <p>You have successfully logged in.</p>
+        <a href="Crud.jsp">Go to CRUD Operation</a>
         <h3>All Users:</h3>
         
         <% 
